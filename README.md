@@ -1,2 +1,8 @@
-# Biological_databases
-This repository is the collection of databases accessed in the interpretation, annotation, analysis and retrival of nuclotide/protein/pathways etc. for biological interpretaion.
+# Objective
+
+To build and maintain a structured, searchable repository that catalogs biological databases and provides concise, precise definitions for every term encountered during daily exploration.
+
+# Databases
+1. NCBI
+2. UCSC
+
